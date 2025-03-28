@@ -45,8 +45,7 @@ Membangun model deep learning untuk klasifikasi sentimen:
 
 
 ## 📊 Submission Review
-
-![Submission Score]([https://github.com/user-attachments/assets/4e13c229-3d5e-4880-bd73-a15ce7c789a3])
+<img width="929" alt="image" src="https://github.com/user-attachments/assets/945ba15d-e80a-4399-bc7d-6db62e97723e" />
 
 ## 📌 Conclusion
 Pada project ini, saya melakukan **analisis sentimen** dengan pendekatan **lexicon-based** dan **deep learning**. Tiga model deep learning dikomparasi untuk melihat performa masing-masing model. Model ini nantinya dapat digunakan untuk menganalisis sentimen ulasan baru secara otomatis, yang dapat membantu dalam memahami kepuasan pengguna dan meningkatkan kualitas layanan aplikasi mereka.
